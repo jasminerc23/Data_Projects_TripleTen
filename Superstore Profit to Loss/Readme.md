@@ -9,5 +9,9 @@
 ## Summary of Project
 * Geography, time, customer info and sales are key metrics used to target profit and loss areas within this database. Using these metrics, I was able to create visuals to show the client which areas needed improvement
 * <img width="944" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/147c6cb4-2fdb-4e57-ac58-e0dd8839fb07">
+<img width="476" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/98027712-7891-4a3d-acc9-88e79b37d61c">
+<img width="346" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/200a10d3-b376-4a97-830f-3889a3516897">
+
+
 
 
