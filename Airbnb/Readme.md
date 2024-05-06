@@ -1,5 +1,5 @@
 ## Airbnb Short Term Vacation Rental Market Analysis
-* My first project with Tripleten designed to showcase mastery on advanced spreadsheets. 
+* My first project in the business intelligence analytics course with Tripleten designed to showcase mastery on advanced spreadsheets 
 
 ## Prerequisites:
 * Google Sheets- to view this spreadsheet you must have a Google account
