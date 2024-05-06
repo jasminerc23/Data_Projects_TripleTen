@@ -2,12 +2,12 @@
 * My first project with Tripleten designed to showcase mastery on advanced spreadsheets. 
 
 ## Prerequisites:
-* Google Sheets- to view this spreadsheet you must have a Google account- use this link to create an account if necessary:[Follow the link -> ]https://www.google.com/sheets/about/
+* Google Sheets- to view this spreadsheet you must have a Google account- use this link to create an account if necessary:Click <a href='https://www.google.com/sheets/about/' target=_blank><u>here</u>.</a>
 
 ## Youtube Video Overview
-* Click<a href='https://youtu.be/x1HB91wnnTs' target=_blank><u>here</u>.</a> 
+* Click <a href='https://youtu.be/x1HB91wnnTs' target=_blank><u>here</u>.</a> 
 ## Projects Google Speadsheet
-Click<a href='https://docs.google.com/spreadsheets/d/13q-g6C-cLXm7jqWKQLng_Aly4x2KxMF_ygE3hJC-9go/edit#gid=769409647' target=_blank><u>here</u>.</a>
+* Click <a href='https://docs.google.com/spreadsheets/d/13q-g6C-cLXm7jqWKQLng_Aly4x2KxMF_ygE3hJC-9go/edit#gid=769409647' target=_blank><u>here</u>.</a>
 
 ## Project task: 
 * Analyze Airbnb's database to identify a profitable neighborhood where a real estate investor can purchase property to establish a short term vacation rental. The client gives a certain set of criteria in which the database is to be analyzed. After analysis offer the client suggestions on where to purchase property using pivot tables in Google Sheets.
