@@ -2,7 +2,8 @@
 * My first project with Tripleten designed to showcase mastery on advanced spreadsheets. 
 
 ## Prerequisites:
-* Google Sheets- to view this spreadsheet you must have a Google account- use this link to create an account if necessary:Click <a href='https://www.google.com/sheets/about/' target=_blank><u>here</u>.</a>
+* Google Sheets- to view this spreadsheet you must have a Google account- use this link to create an account if necessary:
+* Click <a href='https://www.google.com/sheets/about/' target=_blank><u>here</u>.</a>
 
 ## Youtube Video Overview
 * Click <a href='https://youtu.be/x1HB91wnnTs' target=_blank><u>here</u>.</a> 
