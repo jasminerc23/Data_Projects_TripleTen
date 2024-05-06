@@ -1,7 +1,10 @@
 ## Airbnb Short Term Vacation Rental Market Analysis
+* My first project with Tripleten designed to showcase mastery on advanced spreadsheets. 
 
 ## Prerequisites:
-* Google Sheets- to view this spreadsheet you must have a Google account- use this link to create an account if necessary: [Follow the link -> ]https://www.google.com/sheets/about/
+* Google Sheets- to view this spreadsheet you must have a Google account- use this link to create an account if necessary:[Follow the link -> ]https://www.google.com/sheets/about/
+
+Youtube Video Overview can be found <a href='https://youtu.be/x1HB91wnnTs' target=_blank><u>here</u>.</a> 
 
 ## Project task: 
 * Analyze Airbnb's database to identify a profitable neighborhood where a real estate investor can purchase property to establish a short term vacation rental. The client gives a certain set of criteria in which the database is to be analyzed. After analysis offer the client suggestions on where to purchase property using pivot tables in Google Sheets.
@@ -11,5 +14,4 @@
 
 <img width="617" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/a0f7eda6-114a-46a7-be61-a06cbb5ca658">
 
-## View my project summary below to see key features and findings.
-* https://www.loom.com/share/1bb9bf6bf7e3442db512651e3026be8a
+
