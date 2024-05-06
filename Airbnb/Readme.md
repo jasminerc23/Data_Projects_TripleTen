@@ -6,7 +6,7 @@
 * Click <a href='https://www.google.com/sheets/about/' target=_blank><u>here</u>.</a> to create a Google account
 ## Youtube Video Overview
 * Click <a href='https://youtu.be/x1HB91wnnTs' target=_blank><u>here</u>.</a> 
-## Projects Google Speadsheet
+## Airbnb Analysis Link- Google Sheets
 * Click <a href='https://docs.google.com/spreadsheets/d/13q-g6C-cLXm7jqWKQLng_Aly4x2KxMF_ygE3hJC-9go/edit#gid=769409647' target=_blank><u>here</u>.</a>
 
 ## Project task: 
