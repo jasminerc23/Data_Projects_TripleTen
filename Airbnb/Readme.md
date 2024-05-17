@@ -12,7 +12,9 @@
 ## Objective
 * By filtering data, creating pivot tables, formulating calculations for occupancy rate, estimating potential revenue, determining popular neighborhoods, identifying popular rental sizes. I will be able to make informed decisions to offer the client who is seeking guidance on identifying the most lucrative investment properties out of the Airbnb database. 
 <img width="617" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/a0f7eda6-114a-46a7-be61-a06cbb5ca658">
+
 ## Project Analysis
+
 ## Explore and filter data
 1.1: Removed long term rentals where minimum night stay is >= 8 nights
 * Filtered data for short term rentals where minimum night stay is <=7
