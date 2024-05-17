@@ -36,4 +36,24 @@
 * ![Dashboard Template](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/8f23f7a1-01c9-4199-8a5e-f4713a5f1b41)
 
 
- ## Conclusion
+ ## Summary of Findings
+
+ * August, September, December are the 3 months with the highest average product return rate
+
+ * Furniture, office supplies, and technology are the highest product subcategory returned
+
+ * Customer CA-2021-100111 Had a total of 195 returns
+
+ * Customer CA-2021-100111 is a private consumer
+
+ * Private consumers generate the highest return rate
+
+ * 2018 generated the highest return rate from years ranging from 2018-2021
+
+## Recommendations
+
+* Create a customer service line and or a technical support line to support customers with trouble shooting
+
+* Offer warranties on large purchase products
+
+* Identify product vendors with high return rates and cease business
