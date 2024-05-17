@@ -28,10 +28,13 @@
 2.1: Identify top vacation rental properties
 * Create a pivot table with top 10 neighborhoods
 * Highlight the top 10 neighborhoods by review count
+*  <img width="283" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/423eef35-5915-40f1-a6de-95c89df83c1a">
 2.2: Analyze proeprty size preference and distribution
 * Built pivot table to compare bedroom size preference displaying size distribution
-* Investigated property size variation withi top 10 neighborhoods
+* Investigated property size variation within top 10 neighborhoods
 * Identified most popular size of bedroom for vacation rental
+  <img width="374" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/a9e55ae7-f275-41f4-be06-b298fe07580b">
+
 ## Determine Occupancy
 3.1: Explore weekly occupancy variations
 *Build pivot table to analyze weekly occupancy
@@ -40,7 +43,10 @@
 4.1: Filtered properties based on criteria the investor finds necessary
 *Investigate top 5 neighborhoods and corresponding property size
 *Create pivot table to analyze average price and occupancy rate
+*<img width="795" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/73db15c2-9296-47b0-a84f-89c2dc0adb99">
+
 ## Summary of findings: 
-* Through careful filtering in cloud based Google Sheets, the criteria set by the client/ investor allows ~70,000 listings to be narrowed down and further analyzed. After filtering down the data, pivot tables are used to extract information which help to identify the top 10 neighborhoods in which renters prefer, how many bedrooms they fruequently rent, the occupany rate of each listing, and price point. The analysis uncovered the Midtown, Manhattan, New York neighborhood as the #1 neighborhood for vacation rentals. The median rental price point of ~$350 will generate a yearly profit of ~$130,000. 
+* <img width="791" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/8cad3003-5720-4c93-af53-8ad06c0e4e72">
+
 
 
