@@ -18,9 +18,8 @@
 
 ## Project Analysis
 ## Explore and filter data
-* 1.1: Removed long term rentals where minimum night stay is >= 8 nights
+1.1: Removed long term rentals where minimum night stay is >= 8 nights
 * Filtered data for short term rentals where minimum night stay is <=7
-
 1.2: Data refinement based on reviews
 * Removed listings with no reviews in the last 12 months
 * Enhanced data filtering by removing inactive listings
