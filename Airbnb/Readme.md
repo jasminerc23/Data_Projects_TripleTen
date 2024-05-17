@@ -61,7 +61,7 @@
 
 * <img width="795" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/73db15c2-9296-47b0-a84f-89c2dc0adb99">
 
-## Summary of findings: 
+## Summary of Findings 
 * <img width="536" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/7a028157-8f29-4ae9-8760-7d8c3b61b265">
 
 * <img width="791" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/8cad3003-5720-4c93-af53-8ad06c0e4e72">
