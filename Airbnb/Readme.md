@@ -16,32 +16,47 @@
 
 ## Explore and filter data
 1.1: Removed long term rentals where minimum night stay is >= 8 nights
+
 * Filtered data for short term rentals where minimum night stay is <=7
   
 1.2: Data refinement based on reviews
 * Removed listings with no reviews in the last 12 months
+  
 * Enhanced data filtering by removing inactive listings
+  
 * Organized, wrapped, and froze cells to make viewing revised data easier
 
 ## Determine Target Property Type
 2.1: Identify top vacation rental properties
 * Create a pivot table with top 10 neighborhoods
+  
 * Highlight the top 10 neighborhoods by review count
+  
 *  <img width="283" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/423eef35-5915-40f1-a6de-95c89df83c1a">
+
 2.2: Analyze proeprty size preference and distribution
 * Built pivot table to compare bedroom size preference displaying size distribution
+  
 * Investigated property size variation within top 10 neighborhoods
+  
 * Identified most popular size of bedroom for vacation rental
-  <img width="374" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/a9e55ae7-f275-41f4-be06-b298fe07580b">
+  
+* <img width="374" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/a9e55ae7-f275-41f4-be06-b298fe07580b">
 
 ## Determine Occupancy
 3.1: Explore weekly occupancy variations
+
 *Build pivot table to analyze weekly occupancy
+
 *Identify days with the highest occupancy rate
+
 # Determine Return on Investment
 4.1: Filtered properties based on criteria the investor finds necessary
+
 *Investigate top 5 neighborhoods and corresponding property size
+
 *Create pivot table to analyze average price and occupancy rate
+
 *<img width="795" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/73db15c2-9296-47b0-a84f-89c2dc0adb99">
 
 ## Summary of findings: 
