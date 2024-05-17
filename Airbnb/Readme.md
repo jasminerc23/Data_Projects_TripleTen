@@ -11,7 +11,6 @@
 * Analyze Airbnb's database to identify a profitable neighborhood where a real estate investor can purchase property to establish a short term vacation rental. The client gives a certain set of criteria in which the database is to be analyzed. After analysis offer the client suggestions on where to purchase property using pivot tables in Google Sheets.
 ## Objective
 * By filtering data, creating pivot tables, formulating calculations for occupancy rate, estimating potential revenue, determining popular neighborhoods, identifying popular rental sizes. I will be able to make informed decisions to offer the client who is seeking guidance on identifying the most lucrative investment properties out of the Airbnb database. 
-<img width="617" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/a0f7eda6-114a-46a7-be61-a06cbb5ca658">
 
 ## Project Analysis
 
