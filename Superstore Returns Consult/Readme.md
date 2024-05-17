@@ -7,3 +7,16 @@
 ## Project Task
 * Act as a data analyst offering a consultation for the company 'Superstore'. Using Tableau use appropriate metrics to identify what specific products, and in what segments, customers are returning products to reduce returns and increase profit from sales. Create a visul essay to represent your findings.
 ![Dashboard Template](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/8f23f7a1-01c9-4199-8a5e-f4713a5f1b41)
+## Project Analysis
+## Identify Cause of Returns
+1.1 Left joined a table to investigate the correct data
+1.2 Identified root causes based on visuals
+* (Aggregated by subcategory) Identified correlation between total sales and total returns
+* Created a bar chart to show return rate by product category
+* Analyzed a bar chart to show which customer segment was returning the most products
+ * Inserted a filter to remove customers with returns <= 1
+* Identified which geographic regions created the most returns
+* Investigated a correlation between returns and seasonal effects
+ ## Dashboard Analysis of Returns
+
+ ## Conclusion
