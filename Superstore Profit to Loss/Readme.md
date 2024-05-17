@@ -6,8 +6,6 @@
 * Click <a href='https://www.loom.com/share/564730e265b34830968c140367ca455e?sid=8a3df339-8a14-4cea-a4b0-f13359b1e52f' target=_blank><u>here</u>.</a>
 ## Project Task
 * Review a database in Tableauu for 'Superstore' to identify profit and loss makers to help the company avoid bankruptcy
-## Summary of Project
-* Geography, time, customer info and sales are key metrics used to target profit and loss areas within this database. Using these metrics, I was able to create visuals to show the client which areas needed improvement
 
 ## Project Analysis
 ## Profit and Loss Identifiers
@@ -47,7 +45,32 @@
 
 ## Summary of Findings
 
-* 
+* Geography, time, customer info and sales are key metrics used to target profit and loss areas within this database. Using these metrics, I was able to create visuals to show the client which areas needed improvement
+
+## Key Findings
+
+* Regional Profit Maker: United States Western Region
+
+* Profit Maker in Western Region by Subcategory: Accessories and Appliances
+
+* Regional Loss Maker: United States Central Region
+
+* Loss Maker in Central Region by Subcategory: Appliances ad Furnishings
+
+* Top 3 Subcategories Generating Profit : Accessories, Copiers, Appliances
+
+* Superstore must stop selling: Tables
+
+* Top 3 States for Advertising: Indiana, Vermont, Washington
+
+ ## Recommendations
+
+ * In order to avoid bankruptcy I recommend 'Superstore' to cease sales on furnishings and appliances in the central region.
+
+ * In order to decrease loss I recommend reserving advertising budget in the months, May, June, and July. These 3 months are the least profitable in the United States.
+
+ * Implement a customer service line or service technician to trouble shoot issues before the customer must return the product.
+   
 
 
 
