@@ -15,10 +15,10 @@
 1.2: Created a decomposition to outline the project details structured around my hypothesis
 
 * <img width="274" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/e06669d7-3948-413d-ab92-2416e9b44f58">
-<img width="251" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/2c59368c-57fb-4672-a280-3714e23309df">
-
 
 1.3: Identified a theory within the customer database
+
+* <img width="251" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/2c59368c-57fb-4672-a280-3714e23309df">
 
 ## Research Customer Trends
 2.1: Identified the customer demographic through visualizations
