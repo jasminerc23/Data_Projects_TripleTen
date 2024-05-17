@@ -18,5 +18,6 @@
 * Identified which geographic regions created the most returns
 * Investigated a correlation between returns and seasonal effects
  ## Dashboard Analysis of Returns
+2.1: Created a dashboard to visualize all findings within the analysis
 
  ## Conclusion
