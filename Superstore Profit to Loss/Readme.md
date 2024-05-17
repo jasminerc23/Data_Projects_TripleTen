@@ -13,14 +13,24 @@
 ## Profit and Loss Identifiers
 1.1: Identified profit and loss makers
 
-1.2 Created a visualization to show which products the store should stop selling
+* ![Stop Selling by Subcategory](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/94d2b54e-2ec6-470f-9654-48ac61ca37fc)
+
+
+1.2 Created a visualization to show which products the company should stop selling
 
 1.3 Created a visualization to show the top 3 subcategories the company should stop selling
+
+* ![Profit Centers By Subcategory ](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/08ab3b2e-a5cb-432b-9dd9-5c6562bb62ab)
+
 
 ## Calculate Advertising Budget
 2.1: Created a heat map using geographic and month filters focused on the US
 
+* <img width="368" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/4035f2eb-87c0-4e35-b58d-30ec461a9ea1">
+
 2.2: Identified the top 3 states and months of the year for advertising
+
+* <img width="376" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/2a3ed4d9-c03b-446f-aae4-e888e35a193d">
 
 2.3 Created a calculation that calculated the average profit each of the 3 states made in their best 3 performing months
 
@@ -32,6 +42,9 @@
 3.3 Created a visualization from this data to compare average return rate to average profit
 
 3.4 Offered suggestions to the client based on this specific finding
+
+* ![Summative Dashboard](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/8356bf32-7ad2-441a-b0c8-279dd1e84aa3)
+
 
 
 
