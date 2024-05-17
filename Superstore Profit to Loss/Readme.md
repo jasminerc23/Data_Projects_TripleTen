@@ -8,7 +8,7 @@
 * Review a database in Tableauu for 'Superstore' to identify profit and loss makers to help the company avoid bankruptcy
 ## Summary of Project
 * Geography, time, customer info and sales are key metrics used to target profit and loss areas within this database. Using these metrics, I was able to create visuals to show the client which areas needed improvement
-* <img width="944" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/147c6cb4-2fdb-4e57-ac58-e0dd8839fb07">
+
 ## Project Analysis
 ## Profit and Loss Identifiers
 1.1: Identified profit and loss makers
@@ -43,7 +43,7 @@
 
 3.4 Offered suggestions to the client based on this specific finding
 
-* ![Summative Dashboard](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/8356bf32-7ad2-441a-b0c8-279dd1e84aa3)
+*  <img width="944" alt="image" src="https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/147c6cb4-2fdb-4e57-ac58-e0dd8839fb07">
 
 
 
