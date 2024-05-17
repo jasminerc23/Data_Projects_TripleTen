@@ -8,15 +8,17 @@
 * Create a project decomposition based on the initial review of Zomato's database. Decide which segment within the datbase you will analyze and create a theory based on your findings. Upon creating a theory draft a visual essay to represent the trends of the customer segment.
 ## Project Overview
   * Identifying key trends of the customer are significant to understand the success of a business. After identifying that the target demographic, single, male, students, with no income, are using the platform the most, I could identify where the target demographic was eating, where there was room to grow business, and offer suggestions as to where there was room for opportunity using marketing techniques.
-## Project <a href='https://github.com/jasminerc23/Data_Projects_Tripleten/blob/main/Zomato's%20Customer%20Analysis/Decomposition%20Final%20Project.pdf' target=_blank><u>Decomposition</u>.</a> 
+## Project Decomposition
 
 1.1: Researched Zomato's database 
 
 1.2: Created a decomposition to outline the project details structured around my hypothesis
 
 1.3: Identified a theory within the customer database
+
 ## Research Customer Trends
 2.1: Identified the customer demographic through visualizations
+![Marital Status](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/c47dd5ce-14a3-482e-806a-d70e996f3ae7)
 
 2.2: Dissected the findings of the demographic to identify patterns of spending
 
