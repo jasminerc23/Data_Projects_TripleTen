@@ -10,12 +10,17 @@
   * Identifying key trends of the customer are significant to understand the success of a business. After identifying that the target demographic, single, male, students, with no income, are using the platform the most, I could identify where the target demographic was eating, where there was room to grow business, and offer suggestions as to where there was room for opportunity using marketing techniques.
 ## Project Decomposition
 1.1: Researched Zomato's database 
+
 1.2: Created a decomposition to outline the project details structured around my hypothesis
+
 1.3: Identified a theory within the customer database
 ## Research Customer Trends
 2.1: Identified the customer demographic through visualizations
+
 2.2: Dissected the findings of the demographic to identify patterns of spending
+
 2.3: Created a dashboard to compare demographic trends that support my hypothesis
+
 * Summative Dashboard 
     ![Overall Analysis](https://github.com/jasminerc23/Data_Projects_Tripleten/assets/165707643/7cd86ddd-ad81-4ac8-862d-1e7e3ee65bb3)
 
