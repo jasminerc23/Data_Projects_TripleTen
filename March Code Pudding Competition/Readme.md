@@ -45,5 +45,15 @@
 
 * After viewing and cleaning the database in Microsoft Excel, we collaboratively created a theory to represent a real life experience in which most music streaming listeners experienced. Based on data, we created a theory that: the music created and streamed during the time period of 2020-2023 was reflective of the emotions and need for human connectiveness during Covid-19 Pandemic.
 
+## Key Findings
 
+* Music produced within 2018-2023 were written in the key of C# Major
+
+* C# Major gives a mood of stability, strength, flexibility and beauty
+
+* Music streamed in C# Major had a high positivity rating with 188 million streams worldwide
+
+* C# Major has a high danceability rating
+
+* Streamers and artists were generally streaming music in C# Major during the Covid time period more than any other type of music
 
